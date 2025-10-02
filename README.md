@@ -1,5 +1,4 @@
-# PRODIGY_CS_01
-TASK-01  Implementing Caesar Cipher
+# Implementing Caesar Cipher
 
 Caesar Cipher Technique
 The Caesar cipher is the simplest and oldest method of cryptography. The Caesar cipher method is based on a mono-alphabetic cipher and is also called a shift cipher or additive cipher. Julius Caesar used the shift cipher (additive cipher) technique to communicate with his officers. For this reason, the shift cipher technique is called the Caesar cipher. The Caesar cipher is a kind of replacement (substitution) cipher, where all letter of plain text is replaced by another letter.
